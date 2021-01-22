@@ -28,7 +28,7 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "",
+    "description": "First react native app! Marketplace for selling old stuff",
     "githubUrl": "https://github.com/kdotzenrod517"
   }
 }
